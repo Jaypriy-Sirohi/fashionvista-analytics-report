@@ -1,5 +1,11 @@
 # FashionVista Analytics Report
 
+
+## Project Overview
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b9285ed8-9416-4c3a-9238-6a51ce28bab4" />
+
+
+
 ## Description
 
 This project presents an analytics report created in Microsoft Excel for FashionVista. The report focuses on analyzing sales performance, customer trends, product categories, and overall business insights using Excel tools and visualizations.
